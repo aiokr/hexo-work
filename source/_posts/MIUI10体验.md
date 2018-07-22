@@ -1,7 +1,8 @@
 ---
 title: MIUI10体验，AI加持的全面屏操作系统，在非全面屏手机上有着怎样的体验。
 date: 2018-07-20
-tags: MIUI, Android
+tags: - MIUI
+- Android
 catalog: softwate
 ---
 # MIUI10体验，AI加持的全面屏操作系统，在非全面屏手机上有着怎样的体验。

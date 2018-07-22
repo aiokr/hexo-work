@@ -1,6 +1,13 @@
+---
+title: Surface Go：Windows平板电脑的正确打开方式
+date: 2018-07-11 00:00:00
+catalog: hardware
+tags: Microsoft
+---
+
 # Surface Go：Windows平板电脑的正确打开方式
 
-![](/images/surfacego1.jpg)
+![post-cover](https://i.loli.net/2018/07/22/5b544a79e4c39.jpg)
 
 近日，微软发布了其Surface产品线中目前售价最低的一款电脑产品——Surface Go。目前微软已经给出国行版设备的基础售价，为2998人民币元，该版本配置4GB内存和64GB储存。
 
@@ -16,7 +23,7 @@
 
 看一下Surface系列之外的Windows平板电脑产品
 
-![1531271873101](/images/WindowsTablet.png)
+![WindowsTablet.png](https://i.loli.net/2018/07/22/5b544a77aaa58.png)
 
 大致有联想，戴尔，三星等传统PC厂商，以及台电，昂达等传统平板电脑厂商。设备售价也从百元至万元不等。除去Thinkpad X1 Tablet Evo这种笔记本电脑的同系列补足产品，Windows平板电脑设备售价大多在1000~2000元范围之内。大多数产品仅仅是一台平板电脑，部分可以选配键盘，而可选配触控笔的设备则少之又少。
 

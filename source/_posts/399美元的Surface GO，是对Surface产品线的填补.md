@@ -1,7 +1,8 @@
 ---
 title: 399美元的Surface GO，是对Surface产品线的填补
 date: 2018-07-10
-tags: surface, microsoft
+tags: - surface
+- microsoft
 catalog: hardware
 ---
 
@@ -9,7 +10,7 @@ catalog: hardware
 
 Surface Go搭配10英寸PixelSense屏幕，分辨率为1800*1200，支持Surface Pen，可搭配Type Cover键盘盖以及Surface Dial使用。并且带有具备面部识别功能的前置摄像头，Surface系列标配的Surface Connect接口。特别地，Surface Go还首次在Surface设备上搭载USB Type C接口。
 
-![post-cover](/images/surfacego.jpg)
+![post-cover](https://i.loli.net/2018/07/22/5b544a7acacd8.jpg)
 
 Surface Go
 
@@ -23,6 +24,6 @@ Surface Go虽然价格较为低廉，但仍然配置了Surface平板电脑系列
 
 Surface Go的推出，很好地补足了微软Surface系列产品对中低端平板电脑和笔记本电脑市场的不足，凭借Windows系统以及Surface Connect，Surface Pen的优势，能在教育市场上对Chromebook和iPad2018产生一定的竞争。
 
-![img](/images/surfacego1.jpg)
+![surfacego1.jpg](https://i.loli.net/2018/07/22/5b544a79e4c39.jpg)
 
 请输入图片描述
