@@ -1,0 +1,54 @@
+# Header
+menu:
+  Home: /
+  My Works: 
+  About: 
+  Tags: /tags
+
+rss: /atom.xml
+
+# User Info
+user_name: Diskobólos
+user_avatar: https://aiokr.github.io/assets/images/192.png
+user_location: Earth
+user_description: "纪录 科技 人文 感受"
+user_contact: 
+user_introduction: 
+github_username: aiokr
+twitter_username: 
+weibo_username:
+zhihu_username: aiokr
+facebook_username:
+linkedin_username:
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# display widgets at the bottom of index pages (pagination == 2)
+#index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+#archive_type: 'monthly'
+#show_count: false
+S
+# 评论系统
+# 不要用别人的 uid, 自己去注册一个吧
+use_livere: false
+livere_uid: 
+
+use_disqus: false
+disqus_url: https://haojen.disqus.com/embed.js
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+#twitter:
+#google_plus:
+#fb_admins:
+#fb_app_id:
+
+
