@@ -14,10 +14,10 @@ script:
   - git init
   - git config --global push.default matching
   - git config --global user.email "${GitHubEMail}"
-  - git config --global user.name "${GitHubUser}"
+  - git config --global user.name "aiokr"
   - git add --all .
   - git commit -m "Auto Builder of ${GitHubUser}'s blog"
-  - git push --force "https://${GitHubKEY}@github.com/${GitHubUser}/hexo-page.git" master
+  - git push --force --quiet \"https://aiokr:${GitHubKEY}@github.com/aiokr/hexo-page.git" master:master
   
 cache:
   directories:
