@@ -9,7 +9,7 @@ catalog: hardware
 
 Surface Go搭配10英寸PixelSense屏幕，分辨率为1800*1200，支持Surface Pen，可搭配Type Cover键盘盖以及Surface Dial使用。并且带有具备面部识别功能的前置摄像头，Surface系列标配的Surface Connect接口。特别地，Surface Go还首次在Surface设备上搭载USB Type C接口。
 
-![img](/images/surfacego.jpg)
+![post-cover](/images/surfacego.jpg)
 
 Surface Go
 
